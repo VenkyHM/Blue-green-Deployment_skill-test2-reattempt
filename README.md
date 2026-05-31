@@ -15,6 +15,62 @@
 git clone <your-repository-url>
 cd blue-green-project
 ```
+----
+<img width="1690" height="186" alt="image" src="https://github.com/user-attachments/assets/28123152-5786-49a9-a3fa-76500ce8c6ab" />
+
+----
+
+<img width="1699" height="247" alt="image" src="https://github.com/user-attachments/assets/850a30b6-3dd7-4f88-8411-c73562809aa7" />
+
+----
+
+### Local testing
+
+----
+
+<img width="1691" height="611" alt="image" src="https://github.com/user-attachments/assets/97309009-8fdf-43b0-bab4-8d1cd5da951f" />
+
+----
+
+<img width="1694" height="562" alt="image" src="https://github.com/user-attachments/assets/c7eb4a15-a84f-4b32-87b7-d7f694528d1d" />
+
+----
+
+### Containerization using docker
+---
+
+<img width="1699" height="950" alt="image" src="https://github.com/user-attachments/assets/69d02c14-7e43-46ff-8e65-c18156173a34" />
+
+---
+<img width="1684" height="739" alt="image" src="https://github.com/user-attachments/assets/635e1916-f935-456b-957e-fc1870283066" />
+
+---
+### Kubernetes folder structure and yaml file creation for all required deployments
+
+---
+
+<img width="1695" height="589" alt="image" src="https://github.com/user-attachments/assets/90690575-c53c-4970-b377-8a6b27a81cfb" />
+
+---
+### Status of all the deployed pods in kubernetes
+
+----
+
+<img width="1697" height="340" alt="image" src="https://github.com/user-attachments/assets/5b2393f4-ca1e-4710-a2da-4e09ac23a0c9" />
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 2. Local Development
 
