@@ -1,4 +1,4 @@
-# Note : Assignemnt not started yest , Will finish the task after sometimes please.... allow me 2 days of time. Please do not grade this.
+# Note : Assignment not started yest , Will finish the task after sometimes please.... allow me 2 days of time. Please do not grade this.
 
 
 # Blue-Green Deployment Project
