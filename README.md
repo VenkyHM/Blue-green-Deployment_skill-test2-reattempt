@@ -131,6 +131,21 @@ docker build -t your-username/frontend-blue:v1 ./frontend-blue
 # Build Green Frontend Image
 docker build -t your-username/frontend-green:v1 ./frontend-green
 ```
+----
+<img width="1914" height="631" alt="image" src="https://github.com/user-attachments/assets/37b61450-5170-4850-94b6-2202a9c38439" />
+
+----
+<img width="1919" height="301" alt="image" src="https://github.com/user-attachments/assets/92997508-a124-4dc0-9f64-34b26d21da25" />
+
+----
+<img width="1919" height="231" alt="image" src="https://github.com/user-attachments/assets/d04c248c-d929-448d-8db7-0ae66f3d6221" />
+
+----
+
+
+
+
+
 
 ### 4. Kubernetes Deployment
 
@@ -144,7 +159,39 @@ minikube start
 ```bash
 minikube addons enable metrics-server
 minikube addons enable ingress
+
+3.
+eval $(minikube docker-env)
+
+docker build -t backend-image:latest ./backend
+docker build -t frontend-blue-image:latest ./frontend-blue
+docker build -t frontend-green-image:latest ./frontend-green
+
+kubectl rollout restart deployment backend
+kubectl rollout restart deployment frontend-blue
+kubectl rollout restart deployment frontend-green
+
+docker build -t backend-image:latest ./backend
+docker build -t frontend-blue-image:latest ./frontend-blue
+docker build -t frontend-green-image:latest ./frontend-green
+
+kubectl rollout restart deployment backend
+kubectl rollout restart deployment frontend-blue
+kubectl rollout restart deployment frontend-green
+
 ```
+----
+<img width="1918" height="361" alt="image" src="https://github.com/user-attachments/assets/5ac9fdce-f64b-4d09-845c-9f7ff6f69cef" />
+
+
+---
+<img width="1912" height="1055" alt="image" src="https://github.com/user-attachments/assets/e303b294-4168-43ff-a4dc-af1b29160e4e" />
+
+---
+
+
+
+
 
 ### 5. Create Kubernetes Manifest Files
 
