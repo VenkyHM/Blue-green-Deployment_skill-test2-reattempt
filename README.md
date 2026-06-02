@@ -1,4 +1,4 @@
-# Note : Assignment not started yest , Will finish the task after sometimes please.... allow me 2-3 days of time. Please do not grade this.
+# Note :Assignemnt work still in progress/ i will remove this line once i am done. Please do not grade this.
 
 
 # Blue-Green Deployment Project
@@ -18,6 +18,13 @@
 git clone <your-repository-url>
 cd blue-green-project
 ```
+---
+<img width="1919" height="172" alt="image" src="https://github.com/user-attachments/assets/d12d86fc-946d-4628-bd78-7d6c3c66f0c0" />
+
+----
+
+
+
 
 ### 2. Local Development
 
@@ -37,6 +44,21 @@ MONGO_URI=your-mongodb-connection-string
 ```bash
 npm start
 ```
+----
+<img width="1918" height="318" alt="image" src="https://github.com/user-attachments/assets/e14dfbfd-4f3a-4590-9ae7-5bbf3ab5f977" />
+
+----
+
+<img width="1914" height="673" alt="image" src="https://github.com/user-attachments/assets/a9938ec4-b6e1-47ee-8c94-cb8be75bf8bb" />
+
+----
+
+<img width="1917" height="194" alt="image" src="https://github.com/user-attachments/assets/c2c65bfc-2aeb-44e2-8dc9-d3c7f7306b2e" />
+
+---
+
+
+
 
 #### Frontend Setup
 1. Setup Blue Frontend
