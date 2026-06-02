@@ -74,8 +74,48 @@ PORT=3100
 ```bash
 npm start
 ```
+---
+<img width="1917" height="211" alt="image" src="https://github.com/user-attachments/assets/5d7814d6-a7ce-4da3-b45b-5134feaf4f19" />
+
+----
+
+<img width="1907" height="1032" alt="image" src="https://github.com/user-attachments/assets/503ecb11-016d-4399-a46d-1d9b0e569417" />
+
+----
+
 
 3. Repeat similar steps for Green Frontend (with PORT=3200)
+   1. Setup Green Frontend
+```bash
+cd frontend-green
+npm install
+```
+2. Create `.env` file:
+```
+PORT=3100
+```
+3. Start green frontend
+```bash
+npm start
+```
+---
+
+<img width="1918" height="363" alt="image" src="https://github.com/user-attachments/assets/070b903e-365e-4f4e-941f-083097cc45b5" />
+
+----
+
+<img width="1911" height="1038" alt="image" src="https://github.com/user-attachments/assets/a0d29334-8955-4baa-86b9-d72cf323fa49" />
+
+---
+## Unable to submit the file due to getting some error as mentioned in the below screenshot
+
+---
+<img width="1899" height="1023" alt="image" src="https://github.com/user-attachments/assets/d7984ca0-d26a-42b4-b160-fc630493f718" />
+
+---
+
+
+
 
 ### 3. Dockerization
 
