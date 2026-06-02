@@ -52,6 +52,7 @@ npm start
 <img width="1914" height="673" alt="image" src="https://github.com/user-attachments/assets/a9938ec4-b6e1-47ee-8c94-cb8be75bf8bb" />
 
 ----
+## After entering the details form is not getting registered.
 
 <img width="1917" height="194" alt="image" src="https://github.com/user-attachments/assets/c2c65bfc-2aeb-44e2-8dc9-d3c7f7306b2e" />
 
