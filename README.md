@@ -189,6 +189,18 @@ kubectl rollout restart deployment frontend-green
 
 ---
 
+## End point validation 
+
+---
+<img width="1370" height="65" alt="image" src="https://github.com/user-attachments/assets/0c52304d-654e-4657-b40a-961b1f8a7042" />
+
+---
+
+<img width="1699" height="605" alt="image" src="https://github.com/user-attachments/assets/1383a5ca-2e31-4060-9a96-fd28d3f50e69" />
+
+---
+
+
 
 
 
