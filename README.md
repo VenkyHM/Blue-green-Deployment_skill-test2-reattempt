@@ -1,5 +1,4 @@
-# Note :Assignemnt work still in progress/ i will remove this line once i am done. Please do not grade this.
-
+# Note : Assignemnt completed 60-70 % and observed some issues. Troubleshooting is still in progress.
 
 # Blue-Green Deployment Project
 
@@ -214,6 +213,12 @@ Create following files in `k8s/` directory:
 - `frontend-green-deployment.yaml`
 - `frontend-service.yaml`
 - `ingress.yaml`
+
+---
+<img width="1914" height="1054" alt="image" src="https://github.com/user-attachments/assets/49e32c73-ef8a-4f02-9f44-c14a9d095d8b" />
+
+----
+
 
 #### Service File Key Concepts
 Your `frontend-service.yaml` should:
