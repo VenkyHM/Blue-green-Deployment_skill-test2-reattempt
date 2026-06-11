@@ -1,4 +1,4 @@
-# Note : Assignemnt completed 60-70 % and observed some issues. Troubleshooting is still in progress.
+# Note : Troubleshooting is still in progress / i used EC2 instance for the deployment now AWS account is closed and i am creating new one by my own.
 
 # Blue-Green Deployment Project
 
